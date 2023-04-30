@@ -12,5 +12,5 @@ Arquivo do TCC -> [TCC - Paulo Ferreira](https://github.com/pauloeferreira/TCC/b
 
 Arquivo de bases -> [Bases](https://github.com/pauloeferreira/TCC/tree/main/base)
 
-Link para o vídeo demonstrativo -> [Vídeo]()
+Link para o vídeo demonstrativo -> [Vídeo](https://www.loom.com/share/239b6f6725a84008a968c37daeb0934a)
 
